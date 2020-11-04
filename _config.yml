@@ -1,2 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+# General Jekyll Config
+name: Billy Glover, Product Manager
+
+# Build Settings
 markdown: kramdown
