@@ -1,5 +1,5 @@
 # General Jekyll Config
-name: Billy Glover, Product Manager
+name:
 
 # Build Settings
 markdown: kramdown
